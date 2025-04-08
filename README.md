@@ -20,6 +20,8 @@ The following are the scripts used during my project:
 - visualisation_plots.ipynb
     - Used to visualise the distances and RMSD calculated. 
 
+- An example script using acetylcholine with S531V and S950V mutations is provided, showing a practical application. 
+
 ### <u>Environment Setup</u>
 - GROMACS Version 2024.2
 - Python 3.8.20 
